@@ -5,4 +5,9 @@ App pesquisa endereço;<br/>
 
 Conteúdo sobre ajax:<br/>
 
-; <br/>
+Ajax, requisições síncronas e assíncronas; <br/>
+Efetuando requisições HTTP via XMLHttpRequest; <br/>
+Status de requesição; <br/>
+ResponseText; <br/>
+Recuperando XML do servidor via HTTP; <br/>
+Convertendo XML para JSON; <br/>
